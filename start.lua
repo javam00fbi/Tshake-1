@@ -1,5 +1,5 @@
 sudo_tshake = dofile("sudo.lua")
-https = require("ssl.https")
+https = require("ssl.https")12
 JSON = dofile("./libs/JSON.lua")
 local tshake_dev = io.open("tshake_online.lua")
 if tshake_dev then
