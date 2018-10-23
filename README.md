@@ -1,4 +1,4 @@
-TshAkE
+git cloneTshAkE
 ==============
 
 ______________________________________________________________________________________________________________________
@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```https://github.com/javam00fbi/Tshake-1.git && cd Tshake-1 && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/javam00fbi/Tshake-1.git && cd Tshake-1 && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
